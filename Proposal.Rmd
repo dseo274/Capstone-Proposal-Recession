@@ -5,17 +5,6 @@ date: "4/21/2018"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
----
-title: "Springboard Proposal"
-author: "Daniel Seo"
-date: "4/21/2018"
-output: html_document
----
-
 # Springboard Capstone Project
 
 ## Introduction: Prediction Model for Next Economic Downturn
